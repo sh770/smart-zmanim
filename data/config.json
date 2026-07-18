@@ -15,12 +15,12 @@
     "sofZmanTfilla": true,
     "chatzot": true,
     "minchaGedola": true,
-    "minchaKetana": true,
-    "plagHaMincha": true,
+    "minchaKetana": false,
+    "plagHaMincha": false,
     "sunset": true,
     "tzeit": true,
-    "sofZmanShmaMGA": true,
-    "sofZmanTfillaMGA": true
+    "sofZmanShmaMGA": false,
+    "sofZmanTfillaMGA": false
   },
   "theme": {
     "accent": "#d4af37",
@@ -32,7 +32,7 @@
   },
   "zmanimOverrides": {},
   "design": {
-    "theme": "stone",
+    "theme": "marble",
     "layout": "3col",
     "style": "classic",
     "backgroundImage": "",
